@@ -1,0 +1,4 @@
+PORT = "8091"
+URL = f"http://localhost:{PORT}/"
+BEAR_ENDPOINT_NAME = "bear"
+BEAR_ENDPOINT_URL = URL + BEAR_ENDPOINT_NAME
